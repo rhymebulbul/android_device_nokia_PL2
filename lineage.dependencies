@@ -1,7 +1,15 @@
 [
   {
+    "repository": "android_device_nokia_pl2",
+    "target_path": "device/nokia/pl2"
+  },
+  {
     "repository": "android_device_nokia_sdm660-common",
     "target_path": "device/nokia/sdm660-common"
+  },
+  {
+    "repository": "proprietary_vendor_nokia",
+    "target_path": "vendor/nokia/sdm660-common"
   },
   {
     "repository": "android_hardware_samsung_nfc",
